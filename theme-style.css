@@ -5565,7 +5565,7 @@ body.single {
 }
 
 
-@media all and (max-width: 1050px) {
+@media all and (max-width: 1070px) {
     #zp-home-ocu-header {
         padding-top: calc(6% + 20px) !important;
     }

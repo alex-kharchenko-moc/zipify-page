@@ -50,10 +50,9 @@ body {
 #zp-home-ocu-header.zpt-header-ocu.zp-home-ocu-header .zp-hero-banner.zp-hero-banner.zp-hero-banner {
     margin: 0 auto;
     max-width: 1240px;
-    /*padding: 90px 20px 70px;*/
 }
 
-@media (min-width: 1073px) {
+@media (min-width: 1070px) {
     #zp-home-ocu-header.zpt-header-ocu.zp-home-ocu-header .zp-hero-banner.zp-hero-banner.zp-hero-banner {
         padding: 90px 20px 70px;
     }
