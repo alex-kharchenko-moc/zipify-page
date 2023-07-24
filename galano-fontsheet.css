@@ -1,0 +1,262 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3409310, 2017-06-20T18:07:35-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: GalanoGrotesque-BlackItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/black-italic/
+ * 
+ * Webfont: GalanoGrotesque-Black by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/black/
+ * 
+ * Webfont: GalanoGrotesque-BoldItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/bold-italic/
+ * 
+ * Webfont: GalanoGrotesque-ExtraBoldItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/extra-bold-italic/
+ * 
+ * Webfont: GalanoGrotesque-Bold by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/bold/
+ * 
+ * Webfont: GalanoGrotesque-ExtraBold by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/extra-bold/
+ * 
+ * Webfont: GalanoGrotesque-ExtraLightItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/extra-light-italic/
+ * 
+ * Webfont: GalanoGrotesque-ExtraLight by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/extra-light/
+ * 
+ * Webfont: GalanoGrotesque-HeavyItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/heavy-italic/
+ * 
+ * Webfont: GalanoGrotesque-Heavy by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/heavy/
+ * 
+ * Webfont: GalanoGrotesque-Italic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/italic/
+ * 
+ * Webfont: GalanoGrotesque-Light by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/light/
+ * 
+ * Webfont: GalanoGrotesque-LightItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/light-italic/
+ * 
+ * Webfont: GalanoGrotesque-MediumItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/medium-italic/
+ * 
+ * Webfont: GalanoGrotesque-SemiBoldItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/semi-bold-italic/
+ * 
+ * Webfont: GalanoGrotesque-Medium by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/medium/
+ * 
+ * Webfont: GalanoGrotesque-ThinItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/thin-italic/
+ * 
+ * Webfont: GalanoGrotesque-Regular by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/regular/
+ * 
+ * Webfont: GalanoGrotesque-SemiBold by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/semi-bold/
+ * 
+ * Webfont: GalanoGrotesque-Thin by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/thin/
+ * 
+ * Webfont: GalanoGrotesqueAlt-BlackItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-black-italic/
+ * 
+ * Webfont: GalanoGrotesqueAlt-ExtraBoldItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-extra-bold-italic/
+ * 
+ * Webfont: GalanoGrotesqueAlt-ExtraBold by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-extra-bold/
+ * 
+ * Webfont: GalanoGrotesqueAlt-ExtraLight by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-extra-light/
+ * 
+ * Webfont: GalanoGrotesqueAlt-ExtraLightItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-extra-light-italic/
+ * 
+ * Webfont: GalanoGrotesqueAlt-HeavyItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-heavy-italic/
+ * 
+ * Webfont: GalanoGrotesqueAlt-Black by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-black/
+ * 
+ * Webfont: GalanoGrotesqueAlt-Heavy by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-heavy/
+ * 
+ * Webfont: GalanoGrotesqueAlt-Bold by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-bold/
+ * 
+ * Webfont: GalanoGrotesqueAlt-Italic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-italic/
+ * 
+ * Webfont: GalanoGrotesqueAlt-BoldItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-bold-italic/
+ * 
+ * Webfont: GalanoGrotesqueAlt-MediumItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-medium-italic/
+ * 
+ * Webfont: GalanoGrotesqueAlt-LightItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-light-italic/
+ * 
+ * Webfont: GalanoGrotesqueAlt-SemiBoldItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-semi-bold-italic/
+ * 
+ * Webfont: GalanoGrotesqueAlt-Light by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-light/
+ * 
+ * Webfont: GalanoGrotesqueAlt-ThinItalic by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-thin-italic/
+ * 
+ * Webfont: GalanoGrotesqueAlt-Medium by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-medium/
+ * 
+ * Webfont: GalanoGrotesqueAlt-Regular by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-regular/
+ * 
+ * Webfont: GalanoGrotesqueAlt-SemiBold by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-semi-bold/
+ * 
+ * Webfont: GalanoGrotesqueAlt-Thin by Rene Bieder
+ * URL: https://www.myfonts.com/fonts/rene-bieder/galano-grotesque/alt-thin/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3409310
+ * Licensed pageviews: 100,000
+ * Webfonts copyright: Copyright &#x00A9; 2014 by Ren&#x00E9; Bieder. All rights reserved.
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/34059e");
+
+  
+@font-face {font-family: 'GalanoGrotesque-BlackItalic';src: url('fonts/galano/34059E_0_0.eot');src: url('fonts/galano/34059E_0_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_0_0.woff2') format('woff2'),url('fonts/galano/34059E_0_0.woff') format('woff'),url('fonts/galano/34059E_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-Black';src: url('fonts/galano/34059E_1_0.eot');src: url('fonts/galano/34059E_1_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_1_0.woff2') format('woff2'),url('fonts/galano/34059E_1_0.woff') format('woff'),url('fonts/galano/34059E_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-BoldItalic';src: url('fonts/galano/34059E_2_0.eot');src: url('fonts/galano/34059E_2_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_2_0.woff2') format('woff2'),url('fonts/galano/34059E_2_0.woff') format('woff'),url('fonts/galano/34059E_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-ExtraBoldItalic';src: url('fonts/galano/34059E_3_0.eot');src: url('fonts/galano/34059E_3_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_3_0.woff2') format('woff2'),url('fonts/galano/34059E_3_0.woff') format('woff'),url('fonts/galano/34059E_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-Bold';src: url('fonts/galano/34059E_4_0.eot');src: url('fonts/galano/34059E_4_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_4_0.woff2') format('woff2'),url('fonts/galano/34059E_4_0.woff') format('woff'),url('fonts/galano/34059E_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-ExtraBold';src: url('fonts/galano/34059E_5_0.eot');src: url('fonts/galano/34059E_5_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_5_0.woff2') format('woff2'),url('fonts/galano/34059E_5_0.woff') format('woff'),url('fonts/galano/34059E_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-ExtraLightItalic';src: url('fonts/galano/34059E_6_0.eot');src: url('fonts/galano/34059E_6_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_6_0.woff2') format('woff2'),url('fonts/galano/34059E_6_0.woff') format('woff'),url('fonts/galano/34059E_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-ExtraLight';src: url('fonts/galano/34059E_7_0.eot');src: url('fonts/galano/34059E_7_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_7_0.woff2') format('woff2'),url('fonts/galano/34059E_7_0.woff') format('woff'),url('fonts/galano/34059E_7_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-HeavyItalic';src: url('fonts/galano/34059E_8_0.eot');src: url('fonts/galano/34059E_8_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_8_0.woff2') format('woff2'),url('fonts/galano/34059E_8_0.woff') format('woff'),url('fonts/galano/34059E_8_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-Heavy';src: url('fonts/galano/34059E_9_0.eot');src: url('fonts/galano/34059E_9_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_9_0.woff2') format('woff2'),url('fonts/galano/34059E_9_0.woff') format('woff'),url('fonts/galano/34059E_9_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-Italic';src: url('fonts/galano/34059E_A_0.eot');src: url('fonts/galano/34059E_A_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_A_0.woff2') format('woff2'),url('fonts/galano/34059E_A_0.woff') format('woff'),url('fonts/galano/34059E_A_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-Light';src: url('fonts/galano/34059E_B_0.eot');src: url('fonts/galano/34059E_B_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_B_0.woff2') format('woff2'),url('fonts/galano/34059E_B_0.woff') format('woff'),url('fonts/galano/34059E_B_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-LightItalic';src: url('fonts/galano/34059E_C_0.eot');src: url('fonts/galano/34059E_C_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_C_0.woff2') format('woff2'),url('fonts/galano/34059E_C_0.woff') format('woff'),url('fonts/galano/34059E_C_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-MediumItalic';src: url('fonts/galano/34059E_D_0.eot');src: url('fonts/galano/34059E_D_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_D_0.woff2') format('woff2'),url('fonts/galano/34059E_D_0.woff') format('woff'),url('fonts/galano/34059E_D_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-SemiBoldItalic';src: url('fonts/galano/34059E_E_0.eot');src: url('fonts/galano/34059E_E_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_E_0.woff2') format('woff2'),url('fonts/galano/34059E_E_0.woff') format('woff'),url('fonts/galano/34059E_E_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-Medium';src: url('fonts/galano/34059E_F_0.eot');src: url('fonts/galano/34059E_F_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_F_0.woff2') format('woff2'),url('fonts/galano/34059E_F_0.woff') format('woff'),url('fonts/galano/34059E_F_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-ThinItalic';src: url('fonts/galano/34059E_10_0.eot');src: url('fonts/galano/34059E_10_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_10_0.woff2') format('woff2'),url('fonts/galano/34059E_10_0.woff') format('woff'),url('fonts/galano/34059E_10_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-Regular';src: url('fonts/galano/34059E_11_0.eot');src: url('fonts/galano/34059E_11_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_11_0.woff2') format('woff2'),url('fonts/galano/34059E_11_0.woff') format('woff'),url('fonts/galano/34059E_11_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-SemiBold';src: url('fonts/galano/34059E_12_0.eot');src: url('fonts/galano/34059E_12_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_12_0.woff2') format('woff2'),url('fonts/galano/34059E_12_0.woff') format('woff'),url('fonts/galano/34059E_12_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesque-Thin';src: url('fonts/galano/34059E_13_0.eot');src: url('fonts/galano/34059E_13_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_13_0.woff2') format('woff2'),url('fonts/galano/34059E_13_0.woff') format('woff'),url('fonts/galano/34059E_13_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-BlackItalic';src: url('fonts/galano/34059E_14_0.eot');src: url('fonts/galano/34059E_14_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_14_0.woff2') format('woff2'),url('fonts/galano/34059E_14_0.woff') format('woff'),url('fonts/galano/34059E_14_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-ExtraBoldItalic';src: url('fonts/galano/34059E_15_0.eot');src: url('fonts/galano/34059E_15_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_15_0.woff2') format('woff2'),url('fonts/galano/34059E_15_0.woff') format('woff'),url('fonts/galano/34059E_15_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-ExtraBold';src: url('fonts/galano/34059E_16_0.eot');src: url('fonts/galano/34059E_16_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_16_0.woff2') format('woff2'),url('fonts/galano/34059E_16_0.woff') format('woff'),url('fonts/galano/34059E_16_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-ExtraLight';src: url('fonts/galano/34059E_17_0.eot');src: url('fonts/galano/34059E_17_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_17_0.woff2') format('woff2'),url('fonts/galano/34059E_17_0.woff') format('woff'),url('fonts/galano/34059E_17_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-ExtraLightItalic';src: url('fonts/galano/34059E_18_0.eot');src: url('fonts/galano/34059E_18_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_18_0.woff2') format('woff2'),url('fonts/galano/34059E_18_0.woff') format('woff'),url('fonts/galano/34059E_18_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-HeavyItalic';src: url('fonts/galano/34059E_19_0.eot');src: url('fonts/galano/34059E_19_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_19_0.woff2') format('woff2'),url('fonts/galano/34059E_19_0.woff') format('woff'),url('fonts/galano/34059E_19_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-Black';src: url('fonts/galano/34059E_1A_0.eot');src: url('fonts/galano/34059E_1A_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_1A_0.woff2') format('woff2'),url('fonts/galano/34059E_1A_0.woff') format('woff'),url('fonts/galano/34059E_1A_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-Heavy';src: url('fonts/galano/34059E_1B_0.eot');src: url('fonts/galano/34059E_1B_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_1B_0.woff2') format('woff2'),url('fonts/galano/34059E_1B_0.woff') format('woff'),url('fonts/galano/34059E_1B_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-Bold';src: url('fonts/galano/34059E_1C_0.eot');src: url('fonts/galano/34059E_1C_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_1C_0.woff2') format('woff2'),url('fonts/galano/34059E_1C_0.woff') format('woff'),url('fonts/galano/34059E_1C_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-Italic';src: url('fonts/galano/34059E_1D_0.eot');src: url('fonts/galano/34059E_1D_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_1D_0.woff2') format('woff2'),url('fonts/galano/34059E_1D_0.woff') format('woff'),url('fonts/galano/34059E_1D_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-BoldItalic';src: url('fonts/galano/34059E_1E_0.eot');src: url('fonts/galano/34059E_1E_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_1E_0.woff2') format('woff2'),url('fonts/galano/34059E_1E_0.woff') format('woff'),url('fonts/galano/34059E_1E_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-MediumItalic';src: url('fonts/galano/34059E_1F_0.eot');src: url('fonts/galano/34059E_1F_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_1F_0.woff2') format('woff2'),url('fonts/galano/34059E_1F_0.woff') format('woff'),url('fonts/galano/34059E_1F_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-LightItalic';src: url('fonts/galano/34059E_20_0.eot');src: url('fonts/galano/34059E_20_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_20_0.woff2') format('woff2'),url('fonts/galano/34059E_20_0.woff') format('woff'),url('fonts/galano/34059E_20_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-SemiBoldItalic';src: url('fonts/galano/34059E_21_0.eot');src: url('fonts/galano/34059E_21_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_21_0.woff2') format('woff2'),url('fonts/galano/34059E_21_0.woff') format('woff'),url('fonts/galano/34059E_21_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-Light';src: url('fonts/galano/34059E_22_0.eot');src: url('fonts/galano/34059E_22_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_22_0.woff2') format('woff2'),url('fonts/galano/34059E_22_0.woff') format('woff'),url('fonts/galano/34059E_22_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-ThinItalic';src: url('fonts/galano/34059E_23_0.eot');src: url('fonts/galano/34059E_23_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_23_0.woff2') format('woff2'),url('fonts/galano/34059E_23_0.woff') format('woff'),url('fonts/galano/34059E_23_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-Medium';src: url('fonts/galano/34059E_24_0.eot');src: url('fonts/galano/34059E_24_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_24_0.woff2') format('woff2'),url('fonts/galano/34059E_24_0.woff') format('woff'),url('fonts/galano/34059E_24_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-Regular';src: url('fonts/galano/34059E_25_0.eot');src: url('fonts/galano/34059E_25_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_25_0.woff2') format('woff2'),url('fonts/galano/34059E_25_0.woff') format('woff'),url('fonts/galano/34059E_25_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-SemiBold';src: url('fonts/galano/34059E_26_0.eot');src: url('fonts/galano/34059E_26_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_26_0.woff2') format('woff2'),url('fonts/galano/34059E_26_0.woff') format('woff'),url('fonts/galano/34059E_26_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'GalanoGrotesqueAlt-Thin';src: url('fonts/galano/34059E_27_0.eot');src: url('fonts/galano/34059E_27_0.eot?#iefix') format('embedded-opentype'),url('fonts/galano/34059E_27_0.woff2') format('woff2'),url('fonts/galano/34059E_27_0.woff') format('woff'),url('fonts/galano/34059E_27_0.ttf') format('truetype');}
+ 
