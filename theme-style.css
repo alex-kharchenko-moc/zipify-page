@@ -5564,12 +5564,14 @@ body.single {
     }
 }
 
-
 @media all and (max-width: 1070px) {
     #zp-home-ocu-header {
         padding-top: calc(6% + 20px) !important;
     }
+}
 
+
+@media (min-width: 768px) and (max-width: 1070px) {
     #zp-home-ocu-header .t8 {
         grid-column: span 8;
     }
