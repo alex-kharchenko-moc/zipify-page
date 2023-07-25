@@ -5568,6 +5568,10 @@ body.single {
     #zp-home-ocu-header {
         padding-top: calc(6% + 20px) !important;
     }
+
+    #zp-home-ocu-header .zp-header-image {
+        margin-bottom: 40px;
+    }
 }
 
 
