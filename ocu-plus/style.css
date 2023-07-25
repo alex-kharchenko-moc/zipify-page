@@ -1,0 +1,215 @@
+body {
+    padding: 0 !important;
+}
+
+
+.zp-flex {
+    display: flex;
+}
+
+.zp-align--vertical-center {
+    align-items: center;
+}
+
+.zp-justify-content--center {
+    justify-content: center;
+}
+
+.zp-green-color.zp-green-color.zp-green-color {
+    color: #0DC4BA;
+}
+
+.zp-offset--right-sm {
+    margin-right: 8px;
+}
+
+.zp-offset--right-lg {
+    margin-right: 24px;
+}
+
+.zp-offset--bottom-md {
+    margin-bottom: 24px;
+}
+
+#zp-home-ocu-header.zpt-header-ocu.zp-home-ocu-header .zp-hero-banner.zp-hero-banner.zp-hero-banner {
+    margin: 0 auto;
+    max-width: 1240px;
+}
+
+@media (min-width: 1070px) {
+    #zp-home-ocu-header.zpt-header-ocu.zp-home-ocu-header .zp-hero-banner.zp-hero-banner.zp-hero-banner {
+        padding: 80px 20px 70px;
+    }
+}
+
+.zp-header-image {
+    transition: opacity ease-in .3s;
+    will-change: auto;
+}
+
+.zp-home-banner.zp-home-banner {
+    background: url('./images/banner.webp') no-repeat;
+    background-size: cover;
+    padding: 8px 0;
+    justify-content: center;
+}
+
+.zp-home-banner.zp-home-banner h2 {
+    color: #FFF;
+    font-family: GalanoGrotesque-SemiBold;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.25px;
+    margin-bottom: 0;
+}
+
+.zp-learn-more-white-btn {
+    background: #FFF;
+    color: #202122;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-family: GalanoGrotesque-SemiBold;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    text-decoration: none;
+}
+
+#zp-home-ocu-header.zpt-header-ocu.zp-home-ocu-header {
+    position: relative;
+    background: linear-gradient(296deg, #1D5FB6 3.44%, #0A3A79 100%);
+}
+
+#zp-home-ocu-header.zpt-header-ocu.zp-home-ocu-header:before {
+    content: '';
+    background: url('./wp-content/uploads/2023/07/bg.webp') no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: 0.3;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .zp-header-ocu__title {
+    font-family: GalanoGrotesque-Bold;
+    font-style: normal;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #FFF;
+}
+
+.zp-home-stats__section {
+    box-shadow: 6px 6px 11px 0 rgba(33, 43, 54, 0.20);
+    background: #FFF;
+    border-radius: 10px;
+    padding: 8px 24px;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .zp-home-stats__section p.stats-name {
+    color: #0A3A79;
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 400;
+    font-family: GalanoGrotesque-SemiBoldItalic;
+    font-style: normal;
+    margin-bottom: 4px;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .zp-home-stats__section p.stats-value {
+    color: #0DC4BA;
+    text-align: center;
+    font-weight: 400;
+    margin: 0;
+    font-size: 20px;
+    line-height: 28px;
+    font-family: GalanoGrotesque-Bold;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .shopify-logo {
+    width: 39px;
+    height: 46px;
+    margin-right: 9px;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .zp-header-list {
+    margin: 0 0 34px 0;
+    padding: 0;
+    list-style: none;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .zp-header-list li {
+    font-family: "Galano Grotesque", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: left;
+    position: relative;
+    padding-left: 22px;
+    letter-spacing: -0.25px;
+    margin-bottom: 12px;
+    color: #FFF;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .zp-header-list li:last-child {
+    margin-bottom: 0;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .zp-header-list li:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    height: 100%;
+    background: url('./wp-content/uploads/2023/07/check-icon.svg') no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 14px;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .zp-header--description {
+    font-size: 16px;
+    font-family: GalanoGrotesque-Medium;
+    line-height: 140%;
+    letter-spacing: -0.25px;
+    font-weight: 400;
+    margin-bottom: 22px;
+    text-align: left;
+    color: #FFF;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .shopify-plus-logo {
+    width: 97px;
+    height: 40px;
+    margin-bottom: 0;
+    margin-right: 24px;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .shopify-mini-logo {
+    width: 61px;
+    height: 24px;
+    margin-bottom: 0;
+}
+
+.zp-check-icon {
+    width: 14px;
+    height: 10px;
+}
+
+#zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header.zp-home-ocu-header .zp-learn-more-btn {
+    width: 200px;
+    padding: 16px 24px !important;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: GalanoGrotesque-SemiBold;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    background: #FF764B;
+    color: #FFF;
+}
